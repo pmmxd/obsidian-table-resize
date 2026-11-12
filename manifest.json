@@ -1,0 +1,10 @@
+{
+    "id": "table-resize",
+    "name": "Table Resize",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "允许通过拖动调整表格的列宽和行高",
+    "author": "pmmxd",
+    "authorUrl": "https://github.com/pmmxd",
+    "isDesktopOnly": false
+}
